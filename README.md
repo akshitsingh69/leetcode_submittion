@@ -7,12 +7,14 @@ here is all Question of leetcode which i was already solved
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshitsingh69/leetcode_submittion/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/akshitsingh69/leetcode_submittion/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/akshitsingh69/leetcode_submittion/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/akshitsingh69/leetcode_submittion/tree/master/1095-find-in-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/akshitsingh69/leetcode_submittion/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/akshitsingh69/leetcode_submittion/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/akshitsingh69/leetcode_submittion/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/akshitsingh69/leetcode_submittion/tree/master/1095-find-in-mountain-array) |
 ## Ternary Search
